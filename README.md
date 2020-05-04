@@ -2,6 +2,6 @@
 
 Just another repository
 
-Hi everyong!
+Hi everyone!
 
 I am a student. I am learning the Git.
